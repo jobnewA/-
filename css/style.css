@@ -54,10 +54,6 @@ body {
   top: 2%;
 }
 
-.navbar .navbar-nav {
- margin-left: auto !important;
-}
-
 .navbar-nav .nav-link.active {
   color: #015a53;
 }
