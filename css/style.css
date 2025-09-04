@@ -1,8 +1,10 @@
+* {
+    font-family: 'tajawal' !important;
+}
 body {
   margin: 0;
   padding: 0;
   background: #fff;
-  font-family: 'bootstrap-icons';
 }
 
 .bg1 {
@@ -50,6 +52,10 @@ body {
   width: 70%;
   margin: 0 auto;
   top: 2%;
+}
+
+.navbar-nav {
+ margin-left: auto;
 }
 
 .navbar-nav .nav-link.active {
