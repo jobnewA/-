@@ -54,7 +54,7 @@ body {
   top: 2%;
 }
 
-.navbar-nav {
+.navbar .navbar-nav {
  margin-left: auto !important;
 }
 
@@ -131,4 +131,3 @@ body {
 footer {
   background: url('https://i.postimg.cc/XqrBmZdF/Whats-App-Image-2025-09-02-at-14-57-18-41cee2da.jpg') no-repeat center center/cover;
 }
-
